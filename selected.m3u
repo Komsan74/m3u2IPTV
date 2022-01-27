@@ -1,6 +1,6 @@
 #EXTM3U
 
-# Movies List ::::::::::::::::::::::
+# Movies List
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.criticsinc.com/photos/movieposters/j/jakobtheliar.jpg" group-title="Action", Jakob the Liar (1999) จอมโกหกโลกไม่ลืม
 https://streamhee.com/1999_new/Jakob.The.Liar.1999.%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%81%E0%B8%AB%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B7%E0%B8%A1/Jakob.The.Liar.1999.%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%81%E0%B8%AB%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B7%E0%B8%A1.480P.mp4.m3u8
@@ -188,7 +188,8 @@ https://player.streamhee.com/static/players/player_29494.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://moviethai.com/wp-content/uploads/2021/08/610a37b805e1a" group-title="Action", Fast & Furious 9 (2021) เร็ว..แรงทะลุนรก 9
 https://streamhee.com/2021_new/Fast.And.Furious.9.The.Fast.Saga.2021.TH.V-2/Fast.And.Furious.9.The.Fast.Saga.2021.TH.V-2.480P.mp4.m3u8
 
-# TV LIST :::::::::::::::::::::::::::::
+# TV LIST
+
 #EXTINF:-1 group-title="Selected" tvg-logo="https://doo2you.com/icon/5hd.png", CH5
 https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
 
